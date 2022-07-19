@@ -1,8 +1,7 @@
-### Hi there 👋
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
-</div>
-<!--
+### 👋 Hi, my name is Denis
+#### I am QA Engineer
+My main interests are automation and manual testing
+I like to make the product better
 
 
 Here are some ideas to get you started:
