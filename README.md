@@ -10,11 +10,11 @@ Hi there, I am Denis👋
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-<img src="https://img.icons8.com/stickers/344/selenium-test-automation.png" title="Selenium" width="40">
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" width="40">
+<img src="https://img.icons8.com/stickers/344/selenium-test-automation.png" title="Selenium" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" title="PyTest" width="40" height="40">
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" title="Postman" width="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>&nbsp;
