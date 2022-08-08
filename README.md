@@ -14,7 +14,7 @@ Hi there, I am Denis👋
 <img src="https://img.icons8.com/stickers/344/selenium-test-automation.png" title="Selenium" width="40" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" title="PyTest" width="40" height="40">
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" title="Postman" width="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" title="Postgresql" width="40">
    <img src="https://user-images.githubusercontent.com/89486551/143319787-e5eb9aa4-5b57-454f-b903-64282274af76.png" title="Charles" width="40" height="40">
    <img src="https://user-images.githubusercontent.com/89486551/143319792-72034e75-f2fe-4589-b741-6f21a2433a71.png" title=""Fiddler width="40" height="40">
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
