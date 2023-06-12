@@ -4,7 +4,7 @@ Hi there, I am Denis👋
 </h1>
 
 ### :man_technologist: About Me :
-- :mag: I'm a software test engineer with 1.5 years experience in manual testing
+- :mag: I'm a software test engineer with 2 years experience in software testing
 - 📚 Also I'm currently learning QA Automation now
 - :video_game: In my free time I play video games and do sports
 
